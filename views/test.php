@@ -1,0 +1,1 @@
+<pre><?php echo json_encode($data); ?></pre>

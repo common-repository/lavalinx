@@ -1,0 +1,159 @@
+#lavalinx-register-nag { display: none; }
+
+.lavalinx h2 {
+	margin-bottom: .5em;
+}
+
+.lavalinx-register .about {
+	width: 330px;
+	float: left;
+	margin: 0 30px 0 0;
+	padding: 15px;
+	background-color: #eee;
+}
+
+.lavalinx-register .terms {
+	height: 80px;
+	overflow: auto; 
+	border: 1px solid #888; 
+	padding: 15px;
+	font-size: 10px;
+	margin-bottom: 2em;
+}
+
+.lavalinx-register .terms h3 {
+	margin-top: 0; /*41052*/
+}
+
+.lavalinx .left-form {
+	float: left;
+	width: 370px;
+	margin-right: 20px;
+}
+
+.lavalinx-register form img {
+	margin-bottom: 1.5em;
+}
+
+.lavalinx form label {
+	margin-bottom: 1.5em;
+	font-weight: bold;
+	display: block;
+}
+
+.lavalinx form.receiving label {
+	padding-top: 15px;
+	margin-bottom: .5em;
+}
+
+.lavalinx form.receiving label input,
+.lavalinx form.receiving label textarea {
+	position: relative;
+	left: 160px;
+	top: -25px;
+	margin-bottom: -25px;
+}
+
+.lavalinx form.receiving label em {
+	font-size: 9px;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.lavalinx form label a {
+	font-weight: normal;
+}
+
+.lavalinx form label input, 
+.lavalinx form label textarea {
+	display: block;
+	width: 370px;
+	padding: 4px;
+	font-size: 16px;
+	border: 1px solid #888; 
+}
+
+.separator {
+	border-top: 1px dashed #888;
+	margin: 26px 0 14px;
+	text-align: center;
+}
+
+.separator span {
+	line-height: 1em;
+	background-color: #fff;
+	font-weight: bold;
+	text-align: center;
+	padding: 0 10px;
+}
+
+.lavalinx-register .key-field {
+	letter-spacing: .3em;
+}
+
+.lavalinx .button-primary {
+	padding: 6px 12px;
+}
+
+.lavalinx h3 {
+	margin-top: 0;
+}
+
+.lavalinx-receiver h3 a {
+	font-weight: normal;
+}
+
+#ll-preview-link {
+	padding: 15px;
+	background-color: #ededed;
+	font-size: 16px;
+	max-width: 500px;
+}
+
+.lavalinx-feedback p {
+	width: 600px;
+}
+
+.lavalinx table p {
+	max-width: 500px;
+}
+
+.trade-review,
+.trade-review-heading {
+	margin-bottom: 1.5em;
+	width: 700px;
+}
+
+.trade-review-heading {
+	border-bottom: 1px dotted #ccc;
+}
+
+.trade-review-heading span {
+	float: right;
+}
+
+.trade-review h4 {
+	margin: 0 0 5px;
+	white-space: nowrap;
+}
+
+.table-left-arrow,
+.table-right-arrow {
+	width: 70px;
+	background: url(../images/trade-arrow-left.png) no-repeat right center;
+}
+
+.table-right-arrow {
+	background: url(../images/trade-arrow-right.png) no-repeat left center;
+}
+
+.table-sending-page,
+.table-receiving-page {
+	border: 1px solid #dfdfdf;
+	padding: 25px;
+	background-color: #f9f9f9;
+}
+
+#the-comment-list .unapproved.alternate {
+	background-color: #ffffe8;
+}
